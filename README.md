@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for **Challenges**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/sunilkumarhs010420](https://linktr.ee/sunilkumarhs010420)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/sunilkumarhs1718](https://linktr.ee/sunilkumarhs1718
 
 - 💬 Ask me about **ReactJs, Redux, NodeJs, Javascript, Java, HTML, CSS**
 
